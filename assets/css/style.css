@@ -64,3 +64,19 @@ footer div {
 footer a {
     color: #024e76;
 }
+
+section {
+    padding: 60px;
+}
+
+.hero {
+    background-image: url("/codingbootcamp/run-buddy/assets/images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+section {
+    padding: 60px;
+    background-image: url("../images/hero-bg.jpg");
+  }
